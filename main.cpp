@@ -2,5 +2,7 @@
 #include <iostream>
 int main()
 {
-std::cout << "hola mundo\n";
+std::cout << "Hola mundo\n";
+std::cout << 3 + 4;
+return 0;
 }
